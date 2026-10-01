@@ -1,0 +1,13 @@
+# Build products
+build/
+AgentTouchBar
+agent-touchbar-daemon
+tb-ask
+*.o
+*.dSYM/
+
+# OS and system files
+.DS_Store
+*.log
+*.sock
+/tmp/agent_touchbar.*
