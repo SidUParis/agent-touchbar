@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="packaging/AppIcon_1024.png" width="128" height="128" alt="Agent Touch Bar Icon" style="border-radius: 28px;" />
+</p>
+
 # 🛡️ Agent Touch Bar
 
 > **Ultra-lightweight, zero-CPU native macOS Touch Bar approval controller for AI Coding Agents.**  
